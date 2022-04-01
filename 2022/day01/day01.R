@@ -1,3 +1,4 @@
+# 0. Library and fonts management
 library(tidyverse)
 library(ggforce)
 library(patchwork)
@@ -17,6 +18,7 @@ showtext::showtext_auto()
 ## Defines some layout constants
 lnhgt <- 1.1 ### To set the lineheight
 
+# 1. Plots production
 ## Creates the pie charts
 p1 <- ggplot(NULL) +
   ggforce::geom_arc_bar(aes(x0 = 0, y0 = 0, r0 = 0, r = 1,
