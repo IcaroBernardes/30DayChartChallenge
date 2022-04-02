@@ -4,7 +4,6 @@ library(ggforce)
 library(patchwork)
 library(showtext)
 library(ggtext)
-library(colorspace)
 
 ## Adding Google Fonts
 sysfonts::font_add_google(name = "Roboto", family = "Roboto")
@@ -55,7 +54,7 @@ texts <- tibble(
     
     "The 1%",
     
-    "most rich in<br> Brazil have",
+    "most rich in<br> Brazil had",
     
     "28.3%",
     
