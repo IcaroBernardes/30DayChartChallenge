@@ -88,6 +88,6 @@ p <- ggplot(NULL) +
 
 
 ## Saves the plot
-ggsave("day01/day01.png", plot = p, dpi = "retina",
+ggsave("2022/day01/day01.png", plot = p, dpi = "retina",
        width = 6, height = 4)
 
