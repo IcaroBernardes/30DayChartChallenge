@@ -17,6 +17,16 @@
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1510418693498580992
 
-⏱ Time to make this: litle more than 2h and 30min
+⏱ Time to make this: little more than 2h and 30min
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day02/day02.png)
+
+### Day 03 - Historical - Occupied blacks in Brazil by educational level (Du Bois inspired)
+
+💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day03/day03.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1511072124357775367
+
+⏱ Time to make this: little less than 3h and 30min
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day03/day03.png)
