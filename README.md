@@ -30,3 +30,13 @@
 ⏱ Time to make this: little less than 3h and 30min
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day03/day03.png)
+
+### Day 04 - Flora - Local digital new organizations: budgets breakdowns and topics coverage
+
+💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day04/day04.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1511540037552414722
+
+⏱ Time to make this: more than 4h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day04/day04.png)
