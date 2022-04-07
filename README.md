@@ -3,7 +3,7 @@
 ## 2022
 ### Day 01 - Part-to-Whole - Income inequality in Brazil
 
-💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day01/day01.R
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day01/day01.R
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1510051958249467910
 
@@ -13,7 +13,7 @@
 
 ### Day 02 - Pictogram - Uses of Earth's habitable land
 
-💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day02/day02.R
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day02/day02.R
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1510418693498580992
 
@@ -23,7 +23,7 @@
 
 ### Day 03 - Historical - Occupied blacks in Brazil by educational level (Du Bois inspired)
 
-💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day03/day03.R
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day03/day03.R
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1511072124357775367
 
@@ -33,10 +33,22 @@
 
 ### Day 04 - Flora - Local digital new organizations: budgets breakdowns and topics coverage
 
-💻 Code: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day04/day04.R
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day04/day04.R
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1511540037552414722
 
 ⏱ Time to make this: more than 4h
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day04/day04.png)
+
+### Day 06 - OWID data - Who the Brazilians trust?
+
+💻 Source of the image: https://www.figma.com/community/file/1093910175809765997/30DayChartChallenge-day06
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1512082459457859595
+
+⏱ Time to make this: little less than 2h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day06/day06.png)
+
+
