@@ -60,3 +60,16 @@
 ⏱ Time to make this: little less than 2h
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day06/day06.png)
+
+### Day 08 - Mountains - Browsers market share
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day08/day08.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+
+⏱ Time to make this: little less than 4h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day08/day08.png)
+
+
+
