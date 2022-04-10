@@ -87,12 +87,12 @@ clr <- cols4all::c4a(palette = "misc.r4", n = 5)
 ## Defines the coordinates for the titles
 titles <- tibble(
   x = 0.05,
-  y = c(0.95,0.75,0.27,0.11),
-  size = c(46,160,14.9,14.3),
+  y = c(0.95,0.75,0.26,0.1),
+  size = c(46,160,14.1,14.3),
   label = c(
     "ALL ROADS LEAD TO",
     "ROME",
-    "Distribution of the travel times (in minutes) to Rome from some of\nthe top 500 biggest european cities in the start of the XXI Century.",
+    "Distribution of the travel times (in minutes) by car to Rome from some\nof the top 500 biggest european cities in the start of the XXI Century.",
     "Data from: citymayors.com | Graphic by: Ícaro Bernardes (@IcaroBSC)"
   )
 )
