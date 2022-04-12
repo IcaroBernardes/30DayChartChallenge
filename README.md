@@ -91,4 +91,14 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day11/day11.png)
 
+### Day 12 - The Economist themed - Population with access to clean fuels and technologies for cooking
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day12/day12.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1514010200461746183
+
+⏱ Time to make this: little more than 3h and 30 min
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day12/day12.png)
+
 
