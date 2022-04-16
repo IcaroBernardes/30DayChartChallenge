@@ -107,7 +107,7 @@ titles <- tibble(
     "Voronoi Vitrail",
     
     
-    'This stained glass (or "vitrail" in French) is composed by taking random
+'This stained glass (or "vitrail" in French) is composed by taking random
 points with coordinates between 0 and 1 and within the frame of the window.
 An algorithm of Voronoi tesselation divides the frame in sections based on
 the distance between the points. Each section is randomly colored. The same
