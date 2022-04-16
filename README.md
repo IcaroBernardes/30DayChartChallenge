@@ -81,6 +81,16 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day08/day08.png)
 
+### Day 10 - Experimental - Voronoi vitrail
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day10/day10.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1515169762778697732
+
+⏱ Time to make this: little more than 3h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day10/day10.png)
+
 ### Day 11 - Circular - Percentage of fullness of Portugal's river basins
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day11/day11.R
