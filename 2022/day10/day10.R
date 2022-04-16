@@ -16,6 +16,17 @@ goth <- "Grenze Gotisch"
 showtext::showtext_opts(dpi = 320)
 showtext::showtext_auto()
 
+########### ATTENTION ##########################################################
+## If you want to make your own stained glass, I recommend you make changes ####
+## only to the number of points (n_pts), the seed and the colors. The colors ###
+## can be modified by changing the number of colors in the palette (n_clr), ####
+## and the parameters for generating the window palette (palpar). These ########
+## parameters control the hue, chroma and luminance of the colors randomly #####
+## searched by the iwanthue algorithm. Alternatively, you can define your own ##
+## set of colors. Just write the number of base colors (n_clr) and put the hex #
+## colors in the object 'palette' (line) 82. ###################################
+################################################################################
+
 ## Defines some layout constants
 r <- 0.3 ### Radio of the top of the window frame 
 x0 <- 0.5 ### Center of the top of the window frame (x)
