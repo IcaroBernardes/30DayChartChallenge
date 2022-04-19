@@ -111,4 +111,14 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day12/day12.png)
 
+### Day 17 - Connection - The African Diaspora towards Brazil (Du Bois inspired)
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day17/day17.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+
+⏱ Time to make this: too many to count
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day17/day17.png)
+
 
