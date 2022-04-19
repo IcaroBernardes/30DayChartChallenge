@@ -115,7 +115,7 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day17/day17.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1516517164727119877
 
 ⏱ Time to make this: too many to count
 
