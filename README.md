@@ -124,6 +124,7 @@
 ### Day 20 - New tool - 3D landscape of the city of Salvador
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day20/day20.R
+
 💻 Source of the image: https://www.figma.com/community/file/1100197428352838267/30DayChartChallenge-day20
 
 🌍 Twitter post: https://twitter.com/IcaroBSC/status/1518369592846041091
