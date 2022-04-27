@@ -81,6 +81,16 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day08/day08.png)
 
+### Day 09 - Statistics - Sunrise of statistical distributions
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day09/day09.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1519340607172448259
+
+⏱ Time to make this: little more than 2h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day09/day09.png)
+
 ### Day 10 - Experimental - Voronoi vitrail
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day10/day10.R
