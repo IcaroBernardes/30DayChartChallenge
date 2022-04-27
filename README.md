@@ -121,6 +121,16 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day17/day17.png)
 
+### Day 18 - OECD data - Taxes sources of OECD countries
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day18/day18.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1519288296664354816
+
+⏱ Time to make this: too many to count
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day18/day18.png)
+
 ### Day 20 - New tool - 3D landscape of the city of Salvador
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day20/day20.R
