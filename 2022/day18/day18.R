@@ -2,6 +2,7 @@
 library(tidyverse)
 library(ragg)
 library(glue)
+library(epoxy)
 library(ggtext)
 library(geomtextpath)
 library(sf)
@@ -126,8 +127,10 @@ geom <- sf::st_geometry(top_countries) %>%
 sf::st_geometry(top_countries) <- geom
 
 ## Defines coordinates for the titles
-cnt1 <- paste0("<span style='color:",palette$base_clr[1],";'>",c("the US","Canada","Switzerland"),"</span>", collapse = ", ")
-cnt2 <- paste0("<span style='color:",palette$base_clr[2],";'>",c("Latvia","Hungary","Estonia"),"</span>", collapse = ", ")
+cnt1 <- glue::glue("<span style='color:{palette$base_clr[2]};'>{c('the US','Canada','Switzerland')}</span>")
+cnt1 <- glue::glue("{cnt1&}", .transformer = epoxy::epoxy_style("collapse", syntax = "html"))
+cnt2 <- glue::glue("<span style='color:{palette$base_clr[1]};'>{c('Latvia','Hungary','Estonia')}</span>")
+cnt2 <- glue::glue("{cnt2&}", .transformer = epoxy::epoxy_style("collapse", syntax = "html"))
 titles <- tibble(
   x = 0.07,
   y = c(0.95, 0.82, 0.6),
