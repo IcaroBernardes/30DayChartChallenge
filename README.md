@@ -121,7 +121,17 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day12/day12.png)
 
-### Day 17 - Connection - The African Diaspora towards Brazil (Du Bois inspired)
+### Day 16 - Environment - HDI and Required Earths to supply consume of countries
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day16/day16.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1519669923785629699
+
+⏱ Time to make this: little less than 6h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day16/day16.png)
+
+### Day 17 - Connections - The African Diaspora towards Brazil (Du Bois inspired)
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day17/day17.R
 
