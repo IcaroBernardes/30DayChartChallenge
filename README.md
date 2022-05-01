@@ -167,7 +167,7 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day23/day23.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1520556699647725569
 
 ⏱ Time to make this: little more than 2h
 
