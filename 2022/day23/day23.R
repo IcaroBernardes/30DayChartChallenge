@@ -51,7 +51,7 @@ notes <- tibble(
   y = 0.25,
   size = 6,
   label = c(
-    "Candles, gas and kerosene were providers of light for a long time.\nEach technolgy increased availability of artificial lights for the general public but prices were still very high.\nThen, in the 1920s eletricity became very cheap. Since then it is the main source of energy for lighting in the UK."
+    "Candles, gas and kerosene were providers of light for a long time.\nEach technolgy increased availability of artificial lights for the general public but prices were still very high.\nThen, in the 1920s electricity became very cheap. Since then it is the main source of energy for lighting in the UK."
   )
 )
 
