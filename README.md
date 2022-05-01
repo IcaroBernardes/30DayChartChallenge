@@ -163,3 +163,12 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day20/day20.png)
 
+### Day 23 - Tiles - Artificial lighting availability in the UK
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day23/day23.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+
+⏱ Time to make this: little more than 2h
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day23/day23.png)
