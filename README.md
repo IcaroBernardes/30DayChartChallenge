@@ -125,7 +125,7 @@
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day13/day13.R
 
-🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1524129659629322241
 
 ⏱ Time to make this: too many to count
 
