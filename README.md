@@ -121,6 +121,16 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day12/day12.png)
 
+### Day 13 - Correlation - MCA for Dog Breeds Traits
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day13/day13.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/
+
+⏱ Time to make this: too many to count
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day13/day13.png)
+
 ### Day 16 - Environment - HDI and Required Earths to supply consume of countries
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day16/day16.R
