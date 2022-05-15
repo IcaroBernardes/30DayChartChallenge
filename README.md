@@ -131,6 +131,16 @@
 
 ![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day13/day13.png)
 
+### Day 15 - Multivariate - Estimated effect of ingredients on chocolate bars ratings
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day15/day15.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1525949829356060672
+
+⏱ Time to make this: too many to count
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day15/day15.png)
+
 ### Day 16 - Environment - HDI and Required Earths to supply consume of countries
 
 💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day16/day16.R
