@@ -181,7 +181,15 @@
 
 ⏱ Time to make this: little more than 3h
 
-![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day20/day20.png)
+### Day 21 - Down/upwards - Eurovision countries performance through the years
+
+💻 Source of the image: https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day21/day21.R
+
+🌍 Twitter post: https://twitter.com/IcaroBSC/status/1526667027456397313
+
+⏱ Time to make this: too many to count
+
+![](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day21/day21.png)
 
 ### Day 23 - Tiles - Artificial lighting availability in the UK
 
